@@ -1,0 +1,42 @@
+{ "height":5,
+ "layers":[
+        {
+         "data":[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50],
+         "height":5,
+         "name":"tulou",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":10,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "properties":
+    {
+
+    },
+ "renderorder":"left-up",
+ "tileheight":8,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "image":"tulou_pce.png",
+         "imageheight":40,
+         "imagewidth":80,
+         "margin":0,
+         "name":"tulou",
+         "properties":
+            {
+
+            },
+         "spacing":0,
+         "tilecount":50,
+         "tileheight":8,
+         "tilewidth":8
+        }],
+ "tilewidth":8,
+ "version":1,
+ "width":10
+}
